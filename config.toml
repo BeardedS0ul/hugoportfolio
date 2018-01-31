@@ -23,7 +23,7 @@ theme = "hugo-future-imperfect"
   # Sets Categories to sort by number of posts instead of alphabetical
   categoriesByCount    = true
   # set to show or to hide categories in the sidebar
-  showSidebarCategories = true
+  showSidebarCategories = false
   # Sets Estimated Reading Time to appear in post headers
   includeReadingTime   = true
   # Sets the Favicon and Version for the site. Default support is for
@@ -86,7 +86,7 @@ theme = "hugo-future-imperfect"
 
 [params.postAmount]
 # Sets the number of recent posts to show in the sidebar. The default value is 5.
-    sidebar = 5
+    sidebar = 0
 
 # Sets the menu items in the navigation bar
 # Identifier prepends a Font Awesome icon to the menu item
@@ -119,7 +119,7 @@ theme = "hugo-future-imperfect"
 # and socialAppearAtBottom.
 [social]
   # Coding Communities
-  github           = ""
+  github           = "BeardedS0ul"
   gitlab           = ""
   stackoverflow    = "" # User Number
   bitbucket        = ""

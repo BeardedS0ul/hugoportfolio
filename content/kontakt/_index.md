@@ -1,7 +1,7 @@
 ---
 title: "Kontakt"
 date: 2018-01-31T19:04:35+01:00
-draft: true
+draft: false
 ---
 
 <form action="https://formspree.io/mickey_exaudi@hotmail.com"
