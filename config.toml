@@ -1,4 +1,4 @@
-baseURL = "http://mickeyexaudi.dk/"
+baseURL = "hugoportfolio.mickeyexaudi.dk"
 languageCode = "en-us"
 title = "Portfolio Site"
 theme = "hugo-future-imperfect"
